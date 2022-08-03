@@ -1,0 +1,30 @@
+[
+    {
+        "firstName":"Ahmet Yusuf",
+        "lastName":"Turgut",
+        "age":10,
+        "retired":false
+    },
+
+    {
+        "firstName":"Muhammet Ali",
+        "lastName":"Turgut",
+        "age":5,
+        "retired":false
+    },
+
+    {
+        "firstName":"Emine",
+        "lastName":"Turgut",
+        "age":32,
+        "retired":true
+    },
+
+    {
+        "firstName":"Yakup",
+        "lastName":"Turgut",
+        "age":42,
+        "retired":true
+    }
+
+]
